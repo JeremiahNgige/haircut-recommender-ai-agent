@@ -1,0 +1,16 @@
+# Python-specific ignore patterns
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE-specific patterns
+.idea/
+.vscode/
+*.swp
